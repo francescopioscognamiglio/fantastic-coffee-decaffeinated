@@ -1,4 +1,4 @@
-module git.sapienzaapps.it/fantasticcoffee/fantastic-coffee-decaffeinated
+module fontanelle.uniroma1.it/fontanelle
 
 go 1.17
 
